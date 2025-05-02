@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "hPvt6MdRvsIc5uvt+tlb0YfdfwGHe/M0joUY9/KVAls=",
+  "Source": "ConcesionariaBackend",
+  "BasePath": "_content/ConcesionariaBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
