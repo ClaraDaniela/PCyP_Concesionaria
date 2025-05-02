@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariabackend\\concesionariabackend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariabackend\\concesionariabackend\\dtos\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\facturadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -190,11 +194,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\.gitignore",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\.gitignore",
+              "ToolTip": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\.gitignore",
+              "RelativeToolTip": "ConcesionariaBackend\\.gitignore",
+              "ViewState": "AgIAAEgBAAAAAAAAAAAYwGoBAAAPAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAF8SURBVDhPjVNLTgJBEG1lwpoFB3GNK9fieA48hD8iwT/ihwgSDAIHgAGXXsEV18CNzL/LquqZdsYM6kteXqcy3fWqpmpNRBgOhyABBEgpAFVKPIMUcYzUyOU\u002BXM/b2qtU3vkSfRjjZTCAMAw1A2LwzdFoBPP5HNqdzuL27n4juibWI\u002BUshBA1DIkhEx9iEorFotgslQqGYbxxAGFEqt1MxmPWJLbLZdZ\u002Bv89q5PMFPiTR6z2zdaxR0fXA0XTBcVywkb4fwHXjRteecIDNQ7UmExVYAdPcxYaqclN46na5WenMKjtlVnTYwcXlVYaDqImW9beD5N/TeGy32QHXm6hZ03ZgiSQHp2fnWQ4oBmJqWSqwAqZpZjt4aLXAD4J0VqyZsmoubfB8H2r1eoaD6NXZ9HcHO\u002BSA3f4AjifXl8rItOETM8ckB9WTWpYD9RdeZ1PWVWAHWXPQaDb59f/w8LiqHeh1pvGkCaP6qB8yXusoxmuNZ7XmII4O9vGuEF86osuDYRkpYQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2025-05-02T19:36:41.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "VehiculoController.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\VehiculoController.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\VehiculoController.cs",
@@ -206,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ReporteController.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ReporteController.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\ReporteController.cs",
@@ -218,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "FacturaController.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\FacturaController.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\FacturaController.cs",
@@ -230,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "VentaController.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\VentaController.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\VentaController.cs",
@@ -238,12 +255,11 @@
               "RelativeToolTip": "ConcesionariaBackend\\Controllers\\VentaController.cs",
               "ViewState": "AgIAAC0AAAAAAAAAAAAAACgAAABQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-19T22:28:11.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-19T22:28:11.27Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Factura.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Factura.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Factura.cs",
@@ -251,12 +267,11 @@
               "RelativeToolTip": "ConcesionariaBackend\\Models\\Factura.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-20T17:30:13.536Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-20T17:30:13.536Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FacturaDTO.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\FacturaDTO.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\FacturaDTO.cs",
@@ -269,7 +284,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ServicioPostVentaController.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ServicioPostVentaController.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\ServicioPostVentaController.cs",
@@ -281,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ClienteController.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ClienteController.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\ClienteController.cs",
@@ -293,7 +308,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\WeatherForecastController.cs",
@@ -305,7 +320,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Data\\AppDbContext.cs",
@@ -317,7 +332,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Program.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Program.cs",
@@ -329,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "FacturaDTOValidator.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Validations\\FacturaDTOValidator.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Validations\\FacturaDTOValidator.cs",
@@ -341,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "FacturaService.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\FacturaService.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\FacturaService.cs",
@@ -353,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "IFacturaRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\IFacturaRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\IFacturaRepository.cs",
@@ -365,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "FacturaRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\FacturaRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\FacturaRepository.cs",
@@ -377,7 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AutoMapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Mapping\\AutoMapperProfile.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Mapping\\AutoMapperProfile.cs",
@@ -389,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Venta.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Venta.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Venta.cs",
@@ -401,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ReporteDTO.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
@@ -413,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ReporteService.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ReporteService.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\ReporteService.cs",
@@ -425,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ServicioPostVenta.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
@@ -437,7 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\ApplicationDbContext.cs",
@@ -449,7 +464,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Cliente.cs",
@@ -461,7 +476,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "VehiculoDTOValidator.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Validations\\VehiculoDTOValidator.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Validations\\VehiculoDTOValidator.cs",
@@ -473,7 +488,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ClienteDTOValidator.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Validations\\ClienteDTOValidator.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Validations\\ClienteDTOValidator.cs",
@@ -485,7 +500,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\IClienteRepository.cs",
@@ -497,7 +512,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\ClienteRepository.cs",
@@ -509,7 +524,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "ClienteService.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ClienteService.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\ClienteService.cs",
@@ -521,7 +536,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "ClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\ClienteDTO.cs",
@@ -533,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "ServicioPostVentaDTO.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ServicioPostVentaDTO.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\ServicioPostVentaDTO.cs",
@@ -545,7 +560,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\appsettings.json",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\appsettings.json",
@@ -557,7 +572,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "VentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\VentaRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\VentaRepository.cs",
@@ -569,7 +584,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "ServicioPostVentaService.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
@@ -581,7 +596,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "VehiculoService.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VehiculoService.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\VehiculoService.cs",
@@ -593,7 +608,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "VentaService.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VentaService.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\VentaService.cs",
@@ -605,7 +620,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "ServicioPostVentaDTOValidator.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Validations\\ServicioPostVentaDTOValidator.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Validations\\ServicioPostVentaDTOValidator.cs",
@@ -617,7 +632,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "VentaDTOValidator.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Validations\\VentaDTOValidator.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Validations\\VentaDTOValidator.cs",
@@ -629,7 +644,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "ServicioPostVentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
@@ -641,7 +656,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "VentaDTO.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VentaDTO.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\VentaDTO.cs",
@@ -653,7 +668,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "VehiculoDTO.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
@@ -665,7 +680,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "Vehiculo.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Vehiculo.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Vehiculo.cs",
@@ -677,7 +692,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "IServicioPostVentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\IServicioPostVentaRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\IServicioPostVentaRepository.cs",
@@ -689,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "VehiculoRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\VehiculoRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\VehiculoRepository.cs",
@@ -701,7 +716,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "IVentaRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\IVentaRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\IVentaRepository.cs",
@@ -713,7 +728,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 44,
               "Title": "IVehiculoRepository.cs",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\IVehiculoRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\IVehiculoRepository.cs",
@@ -725,7 +740,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 45,
               "Title": "ConcesionariaBackend.csproj",
               "DocumentMoniker": "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\ConcesionariaBackend.csproj",

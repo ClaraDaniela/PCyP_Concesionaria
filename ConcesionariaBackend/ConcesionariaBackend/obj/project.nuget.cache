@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "k5Uw4zdVNnM=",
+  "dgSpecHash": "XKbze4cQ+bc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj",
+  "projectFilePath": "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clara\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\clara\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",

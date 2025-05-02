@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj": {}
+    "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj": {}
   },
   "projects": {
-    "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj": {
+    "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj",
+        "projectUniqueName": "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj",
         "projectName": "ConcesionariaBackend",
-        "projectPath": "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj",
+        "projectPath": "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\ConcesionariaBackend.csproj",
         "packagesPath": "C:\\Users\\clara\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaBackend\\ConcesionariaBackend\\obj\\",
+        "outputPath": "C:\\Users\\clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
