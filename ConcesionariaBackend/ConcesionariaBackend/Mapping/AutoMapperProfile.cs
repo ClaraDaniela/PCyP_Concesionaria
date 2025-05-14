@@ -31,7 +31,7 @@ namespace ConcesionariaBackend.Mapping
             // Factura
             CreateMap<Factura, FacturaDTO>();
             CreateMap<FacturaDTO, Factura>()
-                .ForMember(dest => dest.Id, opt => opt.Ignore());
+                .ForMember(dest => dest.IdFactura, opt => opt.Ignore());
         }
     }
 }

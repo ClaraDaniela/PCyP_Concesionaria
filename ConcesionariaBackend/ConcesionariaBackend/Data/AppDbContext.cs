@@ -86,8 +86,8 @@ namespace ConcesionariaBackend.Data
             modelBuilder.Entity<Factura>(entity =>
             {
                 entity.ToTable("Factura");
-                entity.HasKey(e => e.Id);
-                entity.Property(e => e.Id).HasColumnName("idFactura");
+                entity.HasKey(e => e.IdFactura);
+                entity.Property(e => e.IdFactura).HasColumnName("idFactura");
                 entity.Property(e => e.NumeroFactura).HasColumnName("numeroFactura");
                 entity.Property(e => e.Fecha).HasColumnName("fecha");
                 entity.Property(e => e.Total).HasColumnName("total");

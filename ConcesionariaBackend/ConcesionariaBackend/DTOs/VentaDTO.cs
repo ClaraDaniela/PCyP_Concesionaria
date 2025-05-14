@@ -2,7 +2,7 @@
 {
     public class VentaDTO
     {
-        public int Id { get; set; }
+        public int IdVenta { get; set; }
         public int ClienteId { get; set; }
         public int VehiculoId { get; set; }
         public DateTime FechaVenta { get; set; }

@@ -1,4 +1,5 @@
-﻿using ConcesionariaBackend.Models;
+﻿using ConcesionariaBackend.Data;
+using ConcesionariaBackend.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace ConcesionariaBackend.Repositories
@@ -13,9 +14,9 @@ namespace ConcesionariaBackend.Repositories
 
     public class FacturaRepository : IFacturaRepository
     {
-        private readonly ApplicationDbContext _context;
+        private readonly AppDbContext _context;
 
-        public FacturaRepository(ApplicationDbContext context)
+        public FacturaRepository(AppDbContext context)
         {
             _context = context;
         }
@@ -37,7 +38,7 @@ namespace ConcesionariaBackend.Repositories
                     .ThenInclude(v => v.Cliente)
                 .Include(f => f.Venta)
                     .ThenInclude(v => v.Vehiculo)
-                .FirstOrDefaultAsync(f => f.Id == id);
+                .FirstOrDefaultAsync(f => f.IdFactura == id);
         }
 
         public async Task<Factura> CreateAsync(Factura factura)

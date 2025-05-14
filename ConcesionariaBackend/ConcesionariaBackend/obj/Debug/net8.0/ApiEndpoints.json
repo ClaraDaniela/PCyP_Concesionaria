@@ -119,6 +119,84 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "ConcesionariaBackend.Controllers.FacturaController",
+    "Method": "GetAll",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConcesionariaBackend.Controllers.FacturaController",
+    "Method": "Create",
+    "RelativePath": "api/Factura",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ConcesionariaBackend.DTOs.FacturaDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConcesionariaBackend.Controllers.FacturaController",
+    "Method": "Get",
+    "RelativePath": "api/Factura/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConcesionariaBackend.Controllers.FacturaController",
+    "Method": "Delete",
+    "RelativePath": "api/Factura/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ConcesionariaBackend.Controllers.ReportesController",
+    "Method": "GetVentasPorCliente",
+    "RelativePath": "api/Reportes/ventas-por-cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ConcesionariaBackend.DTOs.ReporteVentasPorClienteDTO, ConcesionariaBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ConcesionariaBackend.Controllers.ServicioPostVentaController",
     "Method": "GetAll",
     "RelativePath": "api/ServicioPostVenta",

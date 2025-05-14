@@ -40,7 +40,7 @@ namespace ConcesionariaBackend.Controllers
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(int id, [FromBody] VentaDTO dto)
         {
-            if (id != dto.Id) return BadRequest();
+            if (id != dto.IdVenta) return BadRequest();
             var result = await _validator.ValidateAsync(dto);
             if (!result.IsValid) return BadRequest(result.Errors);
             await _service.UpdateAsync(dto);

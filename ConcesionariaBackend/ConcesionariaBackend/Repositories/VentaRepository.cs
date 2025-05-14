@@ -26,7 +26,7 @@ namespace ConcesionariaBackend.Repositories
             return await _context.Ventas
                 .Include(v => v.Cliente)
                 .Include(v => v.Vehiculo)
-                .FirstOrDefaultAsync(v => v.Id == id);
+                .FirstOrDefaultAsync(v => v.IdVenta == id);
         }
 
         public async Task<Venta> AddAsync(Venta entity)
