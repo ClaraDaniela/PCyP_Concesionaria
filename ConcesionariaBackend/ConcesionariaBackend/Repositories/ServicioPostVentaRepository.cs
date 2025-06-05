@@ -20,7 +20,7 @@ namespace ConcesionariaBackend.Repositories
         }
 
         // Obtener un servicio post venta por su ID
-        public async Task<ServicioPostVenta> GetByIdAsync(int id)
+        public async Task<ServicioPostVenta?> GetByIdAsync(int id)
         {
             return await _context.ServiciosPostVenta.FindAsync(id);
         }

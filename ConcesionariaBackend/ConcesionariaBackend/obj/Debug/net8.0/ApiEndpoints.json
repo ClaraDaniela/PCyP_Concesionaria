@@ -177,16 +177,88 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "ConcesionariaBackend.Controllers.ReportesController",
-    "Method": "GetVentasPorCliente",
-    "RelativePath": "api/Reportes/ventas-por-cliente",
+    "ContainingType": "ConcesionariaBackend.Controllers.InformeHistoricoController",
+    "Method": "GetInformes",
+    "RelativePath": "api/InformeHistorico",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[ConcesionariaBackend.DTOs.ReporteVentasPorClienteDTO, ConcesionariaBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ConcesionariaBackend.Models.InformeHistorico, ConcesionariaBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ConcesionariaBackend.Controllers.InformeHistoricoController",
+    "Method": "GenerarInformeServicios",
+    "RelativePath": "api/InformeHistorico/Servicio/{idCliente}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ConcesionariaBackend.Models.InformeHistorico",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ConcesionariaBackend.Controllers.InformeHistoricoController",
+    "Method": "GenerarInformeVentas",
+    "RelativePath": "api/InformeHistorico/Venta/{idCliente}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idCliente",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "ConcesionariaBackend.Models.InformeHistorico",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ConcesionariaBackend.Controllers.ReporteController",
+    "Method": "GetVentasPorCliente",
+    "RelativePath": "api/Reporte/ventas-por-cliente",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[ConcesionariaBackend.DTOs.ReporteDTO, ConcesionariaBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -432,26 +504,5 @@
       }
     ],
     "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ConcesionariaBackend.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[ConcesionariaBackend.WeatherForecast, ConcesionariaBackend, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetWeatherForecast"
   }
 ]

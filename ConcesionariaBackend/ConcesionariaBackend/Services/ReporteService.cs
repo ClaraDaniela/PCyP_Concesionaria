@@ -13,20 +13,36 @@ namespace ConcesionariaBackend.Services
             _context = context;
         }
 
-        public async Task<List<ReporteVentasPorClienteDTO>> ObtenerVentasPorClienteAsync()
+        public async Task<List<ReporteDTO>> ObtenerVentasPorClienteAsync()
         {
-            var resultado = await (from venta in _context.Ventas
-                                   join cliente in _context.Clientes on venta.ClienteId equals cliente.Id
-                                   group venta by new { cliente.Nombre, cliente.Apellido } into g
-                                   select new ReporteVentasPorClienteDTO
-                                   {
-                                       Nombre = g.Key.Nombre,
-                                       Apellido = g.Key.Apellido,
-                                       CantidadVentas = g.Count(),
-                                       MontoTotal = g.Sum(v => v.Total)
-                                   }).ToListAsync();
+            var clientes = await _context.Clientes.ToListAsync();
 
-            return resultado;
+            var reportes = new List<ReporteDTO>();
+
+            foreach (var cliente in clientes)
+            {
+                var ventasCliente = await _context.Ventas
+                    .Where(v => v.ClienteId == cliente.Id)
+                    .ToListAsync();
+
+                var serviciosCliente = await _context.ServiciosPostVenta
+                    .Where(s => s.ClienteId == cliente.Id)
+                    .ToListAsync();
+
+                var reporte = new ReporteDTO
+                {
+                    ClienteNombre = $"{cliente.Nombre} {cliente.Apellido}",
+                    CantidadVentas = ventasCliente.Count,
+                    MontoTotalVentas = ventasCliente.Sum(v => v.Total),
+                    CantidadServicios = serviciosCliente.Count,
+                    MontoTotalServicios = serviciosCliente.Sum(s => s.Precio),
+                    FechaGeneracion = DateTime.Now
+                };
+
+                reportes.Add(reporte);
+            }
+
+            return reportes;
         }
     }
 }

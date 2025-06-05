@@ -8,7 +8,10 @@
         public string? Email { get; set; }
         public string? Telefono { get; set; }
         public string? DNI { get; set; }
+
+        public ICollection<InformeHistorico> InformesHistoricos { get; set; } = new List<InformeHistorico>();
     }
 }
+
 
 

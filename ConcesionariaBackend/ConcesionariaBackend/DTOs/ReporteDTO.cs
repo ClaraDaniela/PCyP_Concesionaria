@@ -1,10 +1,13 @@
 ﻿namespace ConcesionariaBackend.DTOs
 {
-    public class ReporteVentasPorClienteDTO
+    public class ReporteDTO
     {
-        public string Nombre { get; set; } = null!;
-        public string Apellido { get; set; } = null!;
+        public string ClienteNombre { get; set; } = null!;
         public int CantidadVentas { get; set; }
-        public decimal MontoTotal { get; set; }
+        public decimal MontoTotalVentas { get; set; }
+        public int CantidadServicios { get; set; }
+        public decimal MontoTotalServicios { get; set; }
+        public DateTime FechaGeneracion { get; set; }
     }
 }
+

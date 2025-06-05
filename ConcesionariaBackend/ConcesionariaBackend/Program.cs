@@ -42,6 +42,10 @@ builder.Services.AddScoped<VehiculoService>();
 builder.Services.AddScoped<VentaService>();
 builder.Services.AddScoped<ServicioPostVentaService>();
 builder.Services.AddScoped<FacturaService>();
+builder.Services.AddScoped<ReporteService>();
+builder.Services.AddScoped<InformeHistoricoService>();
+builder.Services.AddHostedService<InformeBackgroundService>();
+
 
 // 6. Controladores
 builder.Services.AddControllers();

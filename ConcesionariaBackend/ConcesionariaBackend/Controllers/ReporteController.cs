@@ -6,17 +6,17 @@ namespace ConcesionariaBackend.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class ReportesController : ControllerBase
+    public class ReporteController : ControllerBase
     {
         private readonly ReporteService _reporteService;
 
-        public ReportesController(ReporteService reporteService)
+        public ReporteController(ReporteService reporteService)
         {
             _reporteService = reporteService;
         }
 
         [HttpGet("ventas-por-cliente")]
-        public async Task<ActionResult<List<ReporteVentasPorClienteDTO>>> GetVentasPorCliente()
+        public async Task<ActionResult<List<ReporteDTO>>> GetVentasPorCliente()
         {
             var reporte = await _reporteService.ObtenerVentasPorClienteAsync();
             return Ok(reporte);

@@ -12,6 +12,7 @@ namespace ConcesionariaBackend.Data
         public DbSet<Venta> Ventas { get; set; }
         public DbSet<ServicioPostVenta> ServiciosPostVenta { get; set; }
         public DbSet<Factura> Facturas { get; set; }
+        public DbSet<InformeHistorico> InformesHistoricos { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
@@ -100,6 +101,21 @@ namespace ConcesionariaBackend.Data
                 entity.HasOne(e => e.Venta)
                       .WithMany()
                       .HasForeignKey(e => e.VentaId);
+            });
+
+            modelBuilder.Entity<InformeHistorico>(entity =>
+            {
+                entity.ToTable("InformeHistorico");
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Id).HasColumnName("idInformeHistorico");
+                entity.Property(e => e.Tipo).HasColumnName("tipo");
+                entity.Property(e => e.idCliente).HasColumnName("idCliente");
+                entity.Property(e => e.MontoTotal).HasColumnName("montoTotal");
+                entity.Property(e => e.FechaGeneracion).HasColumnName("fechaGeneracion");
+
+                entity.HasOne(e => e.Cliente)
+                      .WithMany(c => c.InformesHistoricos)
+                      .HasForeignKey(e => e.idCliente);
             });
         }
     }

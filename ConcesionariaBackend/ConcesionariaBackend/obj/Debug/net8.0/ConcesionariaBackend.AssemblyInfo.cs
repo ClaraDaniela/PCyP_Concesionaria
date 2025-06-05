@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConcesionariaBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a42a4413f1a2a70793d6c07cfe13effe7513af5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+78cace5dc5370754ffbb7644a11338d19f1c43c1")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConcesionariaBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConcesionariaBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

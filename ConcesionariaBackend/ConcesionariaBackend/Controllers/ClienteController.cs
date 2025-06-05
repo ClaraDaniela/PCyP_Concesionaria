@@ -60,5 +60,13 @@ namespace ConcesionariaBackend.Controllers
             if (!deleted) return NotFound();
             return NoContent();
         }
+
+        [HttpGet("{id}/historial")]
+        public async Task<ActionResult<ClienteConHistorialDTO>> GetClienteConHistorial(int id)
+        {
+            var clienteHistorial = await _clienteService.GetClienteConHistorialAsync(id);
+            if (clienteHistorial == null) return NotFound();
+            return Ok(clienteHistorial);
+        }
     }
 }

@@ -21,6 +21,14 @@ public class ClienteRepository : IClienteRepository
         return await _context.Clientes.FindAsync(id);
     }
 
+    // Método que incluye historial
+    public async Task<Cliente?> GetByIdWithHistorialAsync(int id)
+    {
+        return await _context.Clientes
+            .Include(c => c.InformesHistoricos)
+            .FirstOrDefaultAsync(c => c.Id == id);
+    }
+
     public async Task<Cliente> CreateAsync(Cliente cliente)
     {
         _context.Clientes.Add(cliente);
