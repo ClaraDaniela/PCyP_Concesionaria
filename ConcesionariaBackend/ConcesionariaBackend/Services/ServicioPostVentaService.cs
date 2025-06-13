@@ -55,10 +55,5 @@ namespace ConcesionariaBackend.Services
             if (servicio == null) return false;
             return await _repository.DeleteAsync(servicio);
         }
-
-        internal async Task AddAsync(ServicioPostVentaDTO dto)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

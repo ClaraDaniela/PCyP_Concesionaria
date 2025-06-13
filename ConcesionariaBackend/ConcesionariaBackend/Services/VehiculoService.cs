@@ -49,25 +49,19 @@ namespace ConcesionariaBackend.Services
         {
             return await _repository.DeleteAsync(id);
         }
-
-        public async Task<List<VehiculoDTO>> SimularDisponibilidadVehiculosAsync(string? marcaFiltro = null)
+        public async Task<List<VehiculoDTO>> DisponibilidadVehiculosAsync()
         {
-            var concesionarias = new[] { "Sucursal A", "Sucursal B", "Sucursal C" };
+            var vehiculos = await _repository.GetAllAsync();
+            //Implementacion de paralelismno para mejorar el rendimiento en la obtencion de 
+            // vehiculos disponibles, para ello se uso parallel LINQ
+            var disponibles = vehiculos
+                .AsParallel() //coleccion a multihilos
+                .WithDegreeOfParallelism(Environment.ProcessorCount)
+                .Where(v => v.Stock > 0)// filtro de vehiculos disponibles
+                .ToList(); //se ejecuta una consulta y devuelve una lista
 
-            var tasks = concesionarias.Select(async nombre =>
-            {
-                var vehiculos = await _repository.GetAllAsync();
-                var dto = _mapper.Map<List<VehiculoDTO>>(vehiculos);
-
-                return dto.AsParallel()
-                          .WithDegreeOfParallelism(Environment.ProcessorCount)
-                          .Where(v => string.IsNullOrEmpty(marcaFiltro) || (!string.IsNullOrEmpty(v.Marca) && v.Marca.Contains(marcaFiltro, StringComparison.OrdinalIgnoreCase)))
-                          .ToList();
-            });
-
-            var resultados = await Task.WhenAll(tasks);
-            return resultados.SelectMany(r => r).ToList(); 
+            return _mapper.Map<List<VehiculoDTO>>(disponibles);
         }
     }
-}
+    }
 

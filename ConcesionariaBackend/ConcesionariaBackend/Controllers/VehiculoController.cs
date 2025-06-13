@@ -55,9 +55,11 @@ namespace ConcesionariaBackend.Controllers
         }
 
         [HttpGet("disponibilidad")]
-        public async Task<IActionResult> SimularDisponibilidad([FromQuery] string? marca = null)
+        public async Task<IActionResult> Disponibilidad(
+            [FromQuery] string? marca = null,
+            [FromQuery] string? sucursal = null)
         {
-            var vehiculosDisponibles = await _service.SimularDisponibilidadVehiculosAsync(marca);
+            var vehiculosDisponibles = await _service.DisponibilidadVehiculosAsync();
             return Ok(vehiculosDisponibles);
         }
     }

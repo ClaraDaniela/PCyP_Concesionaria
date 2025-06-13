@@ -4,18 +4,18 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ConcesionariaBackend.Repositories
 {
-    public class VehiculoRepository : IVehiculoRepository
+    public class VehiculoRepositorySucursalA : IVehiculoRepository
     {
         private readonly AppDbContext _context;
 
-        public VehiculoRepository(AppDbContext context)
+        public VehiculoRepositorySucursalA(AppDbContext context)
         {
             _context = context;
         }
 
         public async Task<IEnumerable<Vehiculo>> GetAllAsync()
         {
-            return await _context.Vehiculos.ToListAsync();
+            return await _context.Vehiculos.Include(v => v.Sucursal).ToListAsync();
         }
 
         public async Task<Vehiculo?> GetByIdAsync(int id)

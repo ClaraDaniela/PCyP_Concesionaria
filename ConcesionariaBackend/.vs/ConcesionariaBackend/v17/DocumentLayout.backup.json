@@ -3,20 +3,128 @@
   "WorkspaceRootPath": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\.gitigmore||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\.gitigmore||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\informehistoricoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\informehistoricoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\informebackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\informebackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\serviciopostventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\serviciopostventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{410AD0AD-1FEE-4BC9-A6B6-23CEFCD54AA4}|ConcesionariaBackendTests\\ConcesionariaBackendTests.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackendtests\\services\\vehiculoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{410AD0AD-1FEE-4BC9-A6B6-23CEFCD54AA4}|ConcesionariaBackendTests\\ConcesionariaBackendTests.csproj|solutionrelative:concesionariabackendtests\\services\\vehiculoservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{410AD0AD-1FEE-4BC9-A6B6-23CEFCD54AA4}|ConcesionariaBackendTests\\ConcesionariaBackendTests.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackendtests\\services\\ventaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{410AD0AD-1FEE-4BC9-A6B6-23CEFCD54AA4}|ConcesionariaBackendTests\\ConcesionariaBackendTests.csproj|solutionrelative:concesionariabackendtests\\services\\ventaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\vehiculoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\repositories\\vehiculorepositorysucursalb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\repositories\\vehiculorepositorysucursalb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\repositories\\vehiculorepositorysucursala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\repositories\\vehiculorepositorysucursala.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\vehiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\vehiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\sucursal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\serviciopostventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\serviciopostventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\informehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\informehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\clienteconhistorialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\clienteconhistorialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\controllers\\vehiculocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\repositories\\vehiculorepositorysucursalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\repositories\\vehiculorepositorysucursalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\serviciopostventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\serviciopostventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\reportedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\reportedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\informehistoricodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\informehistoricodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\sucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\sucursaldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\.gitigmore||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\.gitigmore||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -31,96 +139,12 @@
       "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\informehistoricodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\informehistoricodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\ventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\reportedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\reportedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\clienteconhistorialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\clienteconhistorialdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\informehistoricoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\informehistoricoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\controllers\\informehistoricocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\controllers\\informehistoricocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\informehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\informehistorico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\vehiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\vehiculodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{410AD0AD-1FEE-4BC9-A6B6-23CEFCD54AA4}|ConcesionariaBackendTests\\ConcesionariaBackendTests.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackendtests\\services\\ventaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{410AD0AD-1FEE-4BC9-A6B6-23CEFCD54AA4}|ConcesionariaBackendTests\\ConcesionariaBackendTests.csproj|solutionrelative:concesionariabackendtests\\services\\ventaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\controllers\\clientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\clienteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\repositories\\clienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\repositories\\iclienterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\ventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\reporteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\informebackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\informebackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\services\\serviciopostventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\services\\serviciopostventaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\models\\serviciopostventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\models\\serviciopostventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|c:\\users\\clara\\downloads\\optativa 1\\concesionariaapp\\concesionariabackend\\concesionariabackend\\dtos\\serviciopostventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F3E84C7-A9F9-42F9-9A57-5D89CBD667D4}|ConcesionariaBackend\\ConcesionariaBackend.csproj|solutionrelative:concesionariabackend\\dtos\\serviciopostventadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -130,7 +154,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -142,77 +166,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitigmore",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\.gitigmore",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\.gitigmore",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\.gitigmore",
-              "RelativeToolTip": "ConcesionariaBackend\\.gitigmore",
-              "ViewState": "AgIAAIcBAAAAAAAAAAAcwJkBAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-06-08T12:45:33.837Z",
+              "DocumentIndex": 4,
+              "Title": "ServicioPostVentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAqwAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:45:01.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHYAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "InformeHistoricoService.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\InformeHistoricoService.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\InformeHistoricoService.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\InformeHistoricoService.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Services\\InformeHistoricoService.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowC0AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:09:10.259Z",
+              "WhenOpened": "2025-05-30T12:52:10.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "VehiculoService.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VehiculoService.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\VehiculoService.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VehiculoService.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Services\\VehiculoService.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAQwDoAAABAAAAAAAAAAA==",
+              "Title": "ClienteService.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ClienteService.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\ClienteService.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ClienteService.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Services\\ClienteService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T14:45:05.469Z",
+              "WhenOpened": "2025-06-02T21:58:09.625Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServicioPostVentaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T14:38:06.038Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "VehiculoController.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\VehiculoController.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\VehiculoController.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\VehiculoController.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Controllers\\VehiculoController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAqwDsAAABZAAAAAAAAAA==",
+              "Title": "ReporteService.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ReporteService.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\ReporteService.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ReporteService.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Services\\ReporteService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:06:44.503Z",
+              "WhenOpened": "2025-05-29T19:40:59.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "InformeBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\InformeBackgroundService.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\InformeBackgroundService.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\InformeBackgroundService.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Services\\InformeBackgroundService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:36:57.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "VehiculoServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackendTests\\Services\\VehiculoServiceTests.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackendTests\\Services\\VehiculoServiceTests.cs",
               "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackendTests\\Services\\VehiculoServiceTests.cs",
               "RelativeToolTip": "ConcesionariaBackendTests\\Services\\VehiculoServiceTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAgwEQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T19:34:41.85Z",
               "EditorCaption": ""
@@ -220,150 +245,81 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Program.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Program.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Program.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T19:38:00.092Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ReporteDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:50:16.114Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "InformeHistoricoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\InformeHistoricoDTO.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\InformeHistoricoDTO.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\InformeHistoricoDTO.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\InformeHistoricoDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:54:24.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VentaService.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VentaService.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\VentaService.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VentaService.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Services\\VentaService.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAAADoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T14:57:12.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClienteConHistorialDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ClienteConHistorialDTO.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\ClienteConHistorialDTO.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ClienteConHistorialDTO.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\ClienteConHistorialDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:55:18.389Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "InformeHistoricoService.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\InformeHistoricoService.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\InformeHistoricoService.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\InformeHistoricoService.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Services\\InformeHistoricoService.cs",
-              "ViewState": "AgIAAB0AAAAAAAAAAAAAAC0AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T12:52:10.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "InformeHistoricoController.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\InformeHistoricoController.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\InformeHistoricoController.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\InformeHistoricoController.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Controllers\\InformeHistoricoController.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEgAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T22:02:04.18Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InformeHistorico.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\InformeHistorico.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\InformeHistorico.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\InformeHistorico.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Models\\InformeHistorico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T21:07:23.841Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "VehiculoDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:51:25.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Vehiculo.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Vehiculo.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Vehiculo.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Vehiculo.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Models\\Vehiculo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:59:46.275Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
               "Title": "VentaServiceTests.cs",
               "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackendTests\\Services\\VentaServiceTests.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackendTests\\Services\\VentaServiceTests.cs",
               "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackendTests\\Services\\VentaServiceTests.cs",
               "RelativeToolTip": "ConcesionariaBackendTests\\Services\\VentaServiceTests.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAcwEcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T15:17:00.196Z"
+              "WhenOpened": "2025-05-30T15:17:00.196Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClienteController.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ClienteController.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\ClienteController.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ClienteController.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Controllers\\ClienteController.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAAAEAAAABeAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "VentaService.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VentaService.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\VentaService.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VentaService.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Services\\VentaService.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAIwC4AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:59:19.981Z"
+              "WhenOpened": "2025-05-30T14:57:12.829Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 8,
+              "Title": "VehiculoService.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VehiculoService.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\VehiculoService.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\VehiculoService.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Services\\VehiculoService.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:45:05.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Vehiculo.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Models\\Vehiculo.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:59:46.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "VehiculoRepositorySucursalB.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalB.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalB.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalB.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalB.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T18:08:26.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "VehiculoRepositorySucursalA.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalA.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalA.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalA.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalA.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:16:10.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "IClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\IClienteRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\IClienteRepository.cs",
@@ -375,31 +331,115 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 13,
               "Title": "ClienteRepository.cs",
               "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\ClienteRepository.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\ClienteRepository.cs",
               "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\ClienteRepository.cs",
               "RelativeToolTip": "ConcesionariaBackend\\Repositories\\ClienteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAmwDUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T21:57:10.114Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ClienteService.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ClienteService.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\ClienteService.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ClienteService.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Services\\ClienteService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Venta.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Venta.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Venta.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Models\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T21:58:09.625Z"
+              "WhenOpened": "2025-06-12T22:45:26.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VehiculoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\VehiculoDTO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:51:25.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Sucursal.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Sucursal.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Sucursal.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Sucursal.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Models\\Sucursal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:05:47.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServicioPostVenta.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowAsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T21:16:17.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "InformeHistorico.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\InformeHistorico.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\InformeHistorico.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\InformeHistorico.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Models\\InformeHistorico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:07:23.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Cliente.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:30:21.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "VentaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VentaDTO.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\VentaDTO.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VentaDTO.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\VentaDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:48:05.84Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
+              "Title": "ClienteConHistorialDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ClienteConHistorialDTO.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\ClienteConHistorialDTO.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ClienteConHistorialDTO.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\ClienteConHistorialDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:55:18.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "ClienteDTO.cs",
               "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ClienteDTO.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\ClienteDTO.cs",
@@ -412,90 +452,42 @@
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "VentaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VentaDTO.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\VentaDTO.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\VentaDTO.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\VentaDTO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "VehiculoController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\VehiculoController.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\VehiculoController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\VehiculoController.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Controllers\\VehiculoController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwD8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T19:48:05.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\Cliente.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:30:21.038Z"
+              "WhenOpened": "2025-06-05T19:06:44.503Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 24,
-              "Title": "ReporteService.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ReporteService.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\ReporteService.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ReporteService.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Services\\ReporteService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Title": "ClienteController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ClienteController.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\ClienteController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ClienteController.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Controllers\\ClienteController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAEAAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T19:40:59.328Z"
+              "WhenOpened": "2025-06-02T21:59:19.981Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "InformeBackgroundService.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\InformeBackgroundService.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\InformeBackgroundService.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\InformeBackgroundService.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Services\\InformeBackgroundService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Title": "VehiculoRepositorySucursalC.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalC.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalC.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalC.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Repositories\\VehiculoRepositorySucursalC.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T19:36:57.96Z"
+              "WhenOpened": "2025-06-08T18:09:02.715Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "ServicioPostVentaService.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Services\\ServicioPostVentaService.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAADoAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T14:45:01.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ReporteController.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ReporteController.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\ReporteController.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ReporteController.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Controllers\\ReporteController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-30T13:36:37.676Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "ServicioPostVenta.cs",
-              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
-              "RelativeDocumentMoniker": "ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
-              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
-              "RelativeToolTip": "ConcesionariaBackend\\Models\\ServicioPostVenta.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAqwAoAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T21:16:17.321Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
               "Title": "ServicioPostVentaDTO.cs",
               "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ServicioPostVentaDTO.cs",
               "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\ServicioPostVentaDTO.cs",
@@ -504,6 +496,114 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T19:46:57.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ReporteDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\ReporteDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:50:16.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "InformeHistoricoDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\InformeHistoricoDTO.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\InformeHistoricoDTO.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\InformeHistoricoDTO.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\InformeHistoricoDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T21:54:24.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SucursalDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\SucursalDTO.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\DTOs\\SucursalDTO.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\DTOs\\SucursalDTO.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\DTOs\\SucursalDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:12:28.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ServicioPostVentaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Repositories\\ServicioPostVentaRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:38:06.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAwHYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T21:09:10.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": ".gitigmore",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\.gitigmore",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\.gitigmore",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\.gitigmore",
+              "RelativeToolTip": "ConcesionariaBackend\\.gitigmore",
+              "ViewState": "AgIAAIcBAAAAAAAAAAAcwJkBAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T12:45:33.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Program.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Program.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Program.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:38:00.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "InformeHistoricoController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\InformeHistoricoController.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\InformeHistoricoController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\InformeHistoricoController.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Controllers\\InformeHistoricoController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAEgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T22:02:04.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "ConcesionariaBackend\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\Clara\\Downloads\\optativa 1\\concesionariaApp\\ConcesionariaBackend\\ConcesionariaBackend\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "ConcesionariaBackend\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T13:36:37.676Z"
             }
           ]
         }

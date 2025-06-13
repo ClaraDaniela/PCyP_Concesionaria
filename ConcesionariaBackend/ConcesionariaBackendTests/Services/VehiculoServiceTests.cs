@@ -1,104 +1,68 @@
-﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Moq;
-using AutoMapper;
+﻿using AutoMapper;
 using ConcesionariaBackend.DTOs;
 using ConcesionariaBackend.Models;
-using ConcesionariaBackend.Services;
 using ConcesionariaBackend.Repositories;
+using ConcesionariaBackend.Services;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Moq;
+using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
-using System.Diagnostics;
 
 namespace ConcesionariaBackend.Tests.Services
 {
     [TestClass]
     public class VehiculoServiceTests
     {
-        private List<Vehiculo> ObtenerVehiculosDePrueba() => new()
+        [TestMethod]
+        public async Task DisponibilidadVehiculosAsync_DevuelveSoloVehiculosDisponibles_Y_MideTiempo()
         {
-            new Vehiculo { Id = 1, Marca = "Ford", Modelo = "Fiesta", Anio = 2018, Precio = 15000m, Color = "Rojo", Stock = 3 },
-            new Vehiculo { Id = 2, Marca = "Toyota", Modelo = "Corolla", Anio = 2020, Precio = 22000m, Color = "Gris", Stock = 5 }
-        };
+            // Arrange: datos simulados
+            var vehiculosSimulados = new List<Vehiculo>
+            {
+                new Vehiculo { Id = 1, Marca = "Ford", Modelo = "Fiesta", Stock = 3, Sucursal = new Sucursal { idSucursal = 1, nombre = "Sucursal A" } },
+                new Vehiculo { Id = 2, Marca = "Toyota", Modelo = "Corolla", Stock = 0, Sucursal = new Sucursal { idSucursal = 2, nombre = "Sucursal B" } },
+                new Vehiculo { Id = 3, Marca = "Chevrolet", Modelo = "Onix", Stock = 1, Sucursal = new Sucursal { idSucursal = 3, nombre = "Sucursal C" } },
+            };
 
-        private Mock<IMapper> CrearMapperMock()
-        {
+            var repoMock = new Mock<IVehiculoRepository>();
+            repoMock.Setup(r => r.GetAllAsync()).ReturnsAsync(vehiculosSimulados);
+
             var mapperMock = new Mock<IMapper>();
             mapperMock.Setup(m => m.Map<List<VehiculoDTO>>(It.IsAny<List<Vehiculo>>()))
-                .Returns((List<Vehiculo> sourceList) =>
-                    sourceList.Select(v => new VehiculoDTO
+                .Returns((List<Vehiculo> source) =>
+                    source.Select(v => new VehiculoDTO
                     {
                         Id = v.Id,
-                        Marca = v.Marca ?? string.Empty,
-                        Modelo = v.Modelo ?? string.Empty,
-                        Anio = v.Anio,
-                        Precio = v.Precio,
-                        Color = v.Color ?? string.Empty,
-                        Stock = v.Stock
+                        Marca = v.Marca,
+                        Modelo = v.Modelo,
+                        Stock = v.Stock,
+                        idSucursal = v.Sucursal.idSucursal,
+                        Sucursal = new SucursalDTO
+                        {
+                            idSucursal = v.Sucursal.idSucursal,
+                            nombre = v.Sucursal.nombre
+                        },
+                        Disponible = v.Stock > 0
                     }).ToList()
                 );
-            return mapperMock;
-        }
-
-        [TestMethod]
-        public async Task SimularDisponibilidadVehiculosAsync()
-        {
-            // Arrange
-            var vehiculos = ObtenerVehiculosDePrueba();
-            var repoMock = new Mock<IVehiculoRepository>();
-            repoMock.Setup(r => r.GetAllAsync()).ReturnsAsync(vehiculos);
-
-            var mapperMock = CrearMapperMock();
 
             var service = new VehiculoService(repoMock.Object, mapperMock.Object);
 
             // Act
-            var resultado = await service.SimularDisponibilidadVehiculosAsync();
+            var stopwatch = Stopwatch.StartNew();
+            var resultado = await service.DisponibilidadVehiculosAsync();
+            stopwatch.Stop();
 
             // Assert
             Assert.IsNotNull(resultado);
-            Assert.AreEqual(6, resultado.Count, "Deberían devolverse 6 vehículos (2 vehículos * 3 sucursales simuladas)");
+            Assert.IsTrue(resultado.All(v => v.Stock > 0), "Solo deben estar los vehículos con stock mayor a cero");
+            Assert.AreEqual(2, resultado.Count, "Solo dos vehículos tienen stock disponible");
 
-            // Verifica que el contenido mapeado sea coherente
-            var primerVehiculo = resultado.FirstOrDefault();
-            Assert.IsNotNull(primerVehiculo);
-            Assert.AreEqual("Ford", primerVehiculo.Marca);
-            Assert.AreEqual(2018, primerVehiculo.Anio);
-            Assert.AreEqual(15000m, primerVehiculo.Precio);
-        }
-
-        [TestMethod]
-        public async Task SimularDisponibilidadVehiculosAsync_Rendimiento()
-        {
-            // Arrange
-            var vehiculos = ObtenerVehiculosDePrueba();
-            var repoMock = new Mock<IVehiculoRepository>();
-            repoMock.Setup(r => r.GetAllAsync()).ReturnsAsync(vehiculos);
-
-            var mapperMock = CrearMapperMock();
-            var service = new VehiculoService(repoMock.Object, mapperMock.Object);
-
-            var stopwatch = new Stopwatch();
-
-            const int numeroDePedidos = 100;
-            var tareas = new List<Task<List<VehiculoDTO>>>();
-
-            // Act
-            stopwatch.Start();
-            for (int i = 0; i < numeroDePedidos; i++)
-            {
-                tareas.Add(service.SimularDisponibilidadVehiculosAsync("Ford"));
-            }
-            await Task.WhenAll(tareas);
-            stopwatch.Stop();
-
-            // Assert 
-            var resultado = tareas[0].Result;
-            Assert.IsNotNull(resultado);
-            Assert.IsTrue(resultado.All(v => v.Marca.Contains("Ford", StringComparison.OrdinalIgnoreCase)));
-
-            // Output
-            Debug.WriteLine($"⏱ Tiempo total para {numeroDePedidos} pedidos: {stopwatch.ElapsedMilliseconds} ms");
+            // Loguear tiempo de ejecución (en ms)
+            Console.WriteLine($"Tiempo de ejecución: {stopwatch.ElapsedMilliseconds} ms");
         }
     }
 }

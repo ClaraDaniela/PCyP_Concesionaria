@@ -31,7 +31,7 @@ builder.Services.AddValidatorsFromAssemblyContaining<FacturaDTOValidator>();
 
 // 4. Repositorios
 builder.Services.AddScoped<IClienteRepository, ClienteRepository>();
-builder.Services.AddScoped<IVehiculoRepository, VehiculoRepository>();
+builder.Services.AddScoped<IVehiculoRepository, VehiculoRepositorySucursalA>();
 builder.Services.AddScoped<IVentaRepository, VentaRepository>();
 builder.Services.AddScoped<IServicioPostVentaRepository, ServicioPostVentaRepository>();
 builder.Services.AddScoped<IFacturaRepository, FacturaRepository>();

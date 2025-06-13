@@ -1,4 +1,5 @@
-﻿using ConcesionariaBackend.DTOs;
+﻿using AutoMapper;
+using ConcesionariaBackend.DTOs;
 using ConcesionariaBackend.Models;
 using ConcesionariaBackend.Repositories;
 
@@ -7,10 +8,12 @@ namespace ConcesionariaBackend.Services
     public class ClienteService
     {
         private readonly IClienteRepository _clienteRepository;
+        private readonly IMapper _mapper;
 
-        public ClienteService(IClienteRepository clienteRepository)
+        public ClienteService(IClienteRepository clienteRepository, IMapper mapper)
         {
             _clienteRepository = clienteRepository;
+            _mapper = mapper;
         }
 
         public async Task<IEnumerable<Cliente>> GetAllAsync()
@@ -29,26 +32,9 @@ namespace ConcesionariaBackend.Services
             var cliente = await _clienteRepository.GetByIdWithHistorialAsync(id);
             if (cliente == null) return null;
 
-            // Mapeo manual o con AutoMapper si lo tienes configurado
-            var clienteConHistorialDTO = new ClienteConHistorialDTO
-            {
-                Id = cliente.Id,
-                Nombre = cliente.Nombre,
-                Apellido = cliente.Apellido,
-                DNI = cliente.DNI,
-                Email = cliente.Email,
-                Telefono = cliente.Telefono,
-                Historial = cliente.InformesHistoricos.Select(i => new InformeHistoricoDTO
-                {
-                    Id = i.Id,
-                    Tipo = i.Tipo,
-                    MontoTotal = i.MontoTotal,
-                    FechaGeneracion = i.FechaGeneracion
-                }).ToList()
-            };
-
-            return clienteConHistorialDTO;
+            return _mapper.Map<ClienteConHistorialDTO>(cliente);
         }
+
 
         public async Task<Cliente> CreateAsync(Cliente cliente)
         {
