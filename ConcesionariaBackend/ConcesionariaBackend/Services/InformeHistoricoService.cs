@@ -23,6 +23,8 @@ namespace ConcesionariaBackend.Services
             var ventas = await _context.Ventas.AsNoTracking().ToListAsync();
             var servicios = await _context.ServiciosPostVenta.AsNoTracking().ToListAsync();
 
+            //Aca podria ver si puedo hacer una inyeccion para el DTO con mapping
+
             Parallel.ForEach(clientes, cliente =>
             {
                 var ventasCliente = ventas.Where(v => v.ClienteId == cliente.Id).ToList();

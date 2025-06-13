@@ -17,19 +17,23 @@ namespace ConcesionariaBackend.Services
         {
             var clientes = await _context.Clientes.ToListAsync();
 
-            var reportes = new List<ReporteDTO>();
-
-            foreach (var cliente in clientes)
+            var tareas = clientes.Select(async cliente =>
             {
-                var ventasCliente = await _context.Ventas
+                // Consultas paralelas por cliente
+                var ventasTask = _context.Ventas
                     .Where(v => v.ClienteId == cliente.Id)
                     .ToListAsync();
 
-                var serviciosCliente = await _context.ServiciosPostVenta
+                var serviciosTask = _context.ServiciosPostVenta
                     .Where(s => s.ClienteId == cliente.Id)
                     .ToListAsync();
 
-                var reporte = new ReporteDTO
+                await Task.WhenAll(ventasTask, serviciosTask);
+
+                var ventasCliente = await ventasTask;
+                var serviciosCliente = await serviciosTask;
+
+                return new ReporteDTO
                 {
                     ClienteNombre = $"{cliente.Nombre} {cliente.Apellido}",
                     CantidadVentas = ventasCliente.Count,
@@ -38,11 +42,12 @@ namespace ConcesionariaBackend.Services
                     MontoTotalServicios = serviciosCliente.Sum(s => s.Precio),
                     FechaGeneracion = DateTime.Now
                 };
+            });
 
-                reportes.Add(reporte);
-            }
+            var reportes = await Task.WhenAll(tareas);
 
-            return reportes;
+            return reportes.ToList();
         }
+
     }
 }
